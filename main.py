@@ -18,12 +18,19 @@ def extract_table_data(soup):
 
     # tr (Table Row) Tags
     tr_table_tags = table_tag.find_all("tr")
+    th_table_tags = tr_table_tags[0]
+    table_headers = []
+    th_tags = th_table_tags.find_all("th")
+    th_tags = th_tags[1:]   # Remove Icon
+    for th_tag in th_tags:
+        table_headers.append(th_tag.text)
+
     tr_table_tags = tr_table_tags[1:]   # Remove Header Row
     table_data = []
     for tr_tag in tr_table_tags:
         td_tags = tr_tag.find_all("td")
         table_data.append(extract_table_row_data(td_tags))
-    return table_data
+    return table_headers, table_data
 
 def extract_table_row_data(td_tags):
     name_tag = td_tags[1]
@@ -64,7 +71,7 @@ if __name__ == "__main__":
         print("Failed to retrieve the webpage.")
         exit(1)
 
-    table_data = extract_table_data(soup)
-    if not table_data:
-        print("No table data found.")
+    table_headers, table_data = extract_table_data(soup)
+    if not table_headers or not table_data:
+        print("No table headers of data found.")
         exit(1)
