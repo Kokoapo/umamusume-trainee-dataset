@@ -79,5 +79,6 @@ if __name__ == "__main__":
 
     df = pd.DataFrame(table_data)
     df.columns = table_headers
+    df.index.name = "Id"
 
     df.to_csv("data.csv")
