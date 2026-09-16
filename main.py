@@ -5,6 +5,15 @@ import requests
 URL = "https://umamusu.wiki/Game:List_of_Trainees"
 
 def parse_html(url):
+    """
+    Make a GET request to 'url' and parse the response's content into a BeautifulSoup object
+
+    Args:
+        url: URL to make a request to
+    
+    Returns:
+        soup: BeautifulSoup object with entire response's content
+    """
     res = requests.get(url)
     if res.status_code == 200:
         soup = BeautifulSoup(res.content, "html.parser")
@@ -12,12 +21,20 @@ def parse_html(url):
     return None
 
 def extract_table_data(soup):
-    # Table Tag
+    """
+    Find table with all data and returns table headers and data after proper scrapping
+
+    Args:
+        soup: BeautifulSoup object containing the data table
+    
+    Returns:
+        table_headers: List with columns names, None if not found
+        table_data: List containing data rows' lists, None if not found
+    """
     table_tag = soup.find("table")
     if not table_tag:
-        return None
+        return None, None
 
-    # tr (Table Row) Tags
     tr_table_tags = table_tag.find_all("tr")
     th_table_tags = tr_table_tags[0]
     table_headers = []
@@ -34,6 +51,22 @@ def extract_table_data(soup):
     return table_headers, table_data
 
 def extract_table_row_data(td_tags):
+    """
+    Properly scraps data from each column in a row, each one having it's own way of scrapping:
+    Icon: ignored
+    Name: access <b> then <a> tags, then gets text
+    Character: gets text
+    Release Dates: gets text or None if text is "N/A"
+    Rarity: counts the number of characters in text
+    Stats: gets text then converts it into int values
+    TDS: access <span> then <a> tags, gets 'href' attribute and gets the aptitude letter position 
+
+    Args:
+        td_tags: List with all table data (td) tags in a row
+    
+    Returns:
+        data: List with all retrieved data in order
+    """
     name_tag = td_tags[1]
     character_tag = td_tags[2]
     release_tags = td_tags[3:5]
