@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import pandas as pd
 import requests
 
 URL = "https://umamusu.wiki/Game:List_of_Trainees"
@@ -73,5 +74,10 @@ if __name__ == "__main__":
 
     table_headers, table_data = extract_table_data(soup)
     if not table_headers or not table_data:
-        print("No table headers of data found.")
+        print("No table headers or data found.")
         exit(1)
+
+    df = pd.DataFrame(table_data)
+    df.columns = table_headers
+
+    df.to_csv("data.csv")

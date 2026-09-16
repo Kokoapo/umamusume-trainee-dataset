@@ -1,0 +1,268 @@
+,Name,Character,Release Date (JP),Release Date (EN),Rarity,Speed%,Stamina%,Power%,Guts%,Wit%,Turf,Dirt,Sprint,Mile,Middle,Long,Front,Pace,Late,End
+0,Special Dreamer,Special Week,2021-03-02,2025-06-26,3,0,20,0,0,10,A,G,F,C,A,A,G,A,A,C
+1,Hopp'n♪Happy Heart,Special Week,2021-07-29,2025-10-14,3,0,10,10,10,0,A,G,F,C,A,A,G,A,A,C
+2,Ruler of Japan,Special Week,,,3,10,10,0,0,10,A,G,F,C,A,A,G,A,A,C
+3,Innocent Silence,Silence Suzuka,2021-03-02,2025-06-26,3,20,0,0,10,0,A,G,D,A,A,E,A,C,E,G
+4,Emerald Tidings,Silence Suzuka,2023-07-31,,3,15,15,0,0,0,A,G,D,A,A,E,A,C,E,G
+5,Peak Joy,Tokai Teio,2021-03-02,2025-06-26,3,20,10,0,0,0,A,G,F,E,A,B,D,A,C,E
+6,Beyond the Horizon,Tokai Teio,2021-03-30,2025-07-16,3,10,10,0,10,0,A,G,F,E,A,B,D,A,C,E
+7,紫雲の夢見取り,Tokai Teio,2023-10-30,,3,10,10,0,0,10,A,G,F,E,A,A,D,A,C,E
+8,Formula R,Maruzensky,2021-03-02,2025-06-26,3,10,0,0,0,20,A,D,B,A,B,C,A,E,G,G
+9,Hot☆Summer Night,Maruzensky,2021-07-29,2025-10-14,3,15,0,0,0,15,A,D,B,A,B,C,A,E,G,G
+10,祝ひ寿ぐ神速天女,Maruzensky,2025-01-10,,3,15,0,15,0,0,A,D,B,A,B,C,A,E,G,G
+11,Shooting Star Revue,Fuji Kiseki,2021-07-12,2025-10-02,3,0,0,20,0,10,A,F,B,A,B,E,C,A,C,G
+12,Succès Étoilé,Fuji Kiseki,2022-03-29,2026-04-05,3,8,0,14,0,8,A,F,B,A,B,E,C,A,C,G
+13,ブランシュ・エトワール,Fuji Kiseki,2026-04-30,,3,0,10,0,13,7,A,F,B,A,A,E,C,A,C,G
+14,Starlight Beat,Oguri Cap,2021-03-02,2025-06-26,3,20,0,10,0,0,A,B,E,A,A,B,F,A,A,D
+15,Ashen Miracle,Oguri Cap,2021-11-29,2026-01-05,3,15,15,0,0,0,A,B,E,A,A,B,F,A,A,D
+16,Cinderella Gray,Oguri Cap,2025-12-11,,3,8,0,8,14,0,A,B,E,A,B,A,F,A,A,D
+17,Red Strife,Gold Ship,2021-03-02,2025-06-26,2,0,20,10,0,0,A,G,G,C,A,A,G,B,B,A
+18,RUN! RUIN! LAUNCHER!,Gold Ship,2022-07-29,2026-07-02,3,0,0,20,0,10,A,G,G,C,A,A,G,B,B,A
+19,La mode 564,Gold Ship,2023-08-31,,3,8,14,8,0,0,A,G,G,C,A,A,G,B,B,A
+20,Wild Top Gear,Vodka,2021-03-02,2025-06-26,2,10,0,20,0,0,A,G,F,A,A,F,C,B,A,F
+21,Fiery Aqua Vitae,Vodka,2022-11-28,,3,20,0,0,10,0,A,G,F,A,A,E,C,B,A,F
+22,Peak Blue,Daiwa Scarlet,2021-03-02,2025-06-26,2,10,0,0,20,0,A,G,F,A,A,B,A,A,E,G
+23,Nuit Étoilée de Scarlet,Daiwa Scarlet,2022-11-28,,3,20,0,0,0,10,A,G,F,B,A,A,A,A,E,G
+24,Wild Frontier,Taiki Shuttle,2021-03-02,2025-06-26,3,20,0,0,0,10,A,B,A,A,E,G,C,A,E,G
+25,Bubblegum☆Memories,Taiki Shuttle,2022-06-30,2026-06-11,3,0,0,30,0,0,A,B,A,A,E,G,C,A,E,G
+26,Baa Baa Patisserie,Taiki Shuttle,2026-01-30,,3,0,0,10,20,0,A,B,A,A,E,G,C,A,E,G
+27,Stone-Piercing Blue,Grass Wonder,2021-03-02,2025-06-26,2,20,0,10,0,0,A,G,G,A,B,A,F,A,A,F
+28,Saintly Jade Cleric,Grass Wonder,2021-06-29,2025-09-21,3,0,15,0,0,15,A,G,G,A,B,A,F,A,A,F
+29,蒼炎の誉,Grass Wonder,2024-12-19,,3,0,0,0,20,10,A,G,G,B,A,A,F,A,A,F
+30,Azure Amazon,Hishi Amazon,2021-06-21,2025-09-17,3,0,0,20,10,0,A,E,D,A,A,B,G,B,C,A
+31,Hungry Veil,Hishi Amazon,2023-05-29,,3,10,0,10,0,10,A,E,D,A,A,B,G,B,C,A
+32,Frontline Elegance,Mejiro McQueen,2021-03-02,2025-06-26,3,0,20,0,0,10,A,E,G,F,A,A,B,A,D,F
+33,End of the Skies,Mejiro McQueen,2021-03-30,2025-07-16,3,0,10,10,0,10,A,E,G,F,A,A,B,A,D,F
+34,Fair Lady of the Waves,Mejiro McQueen,2022-07-29,2026-07-02,3,8,8,0,0,14,A,E,G,F,A,A,B,A,D,F
+35,El☆Número 1,El Condor Pasa,2021-03-02,2025-06-26,2,20,0,0,0,10,A,B,F,A,A,B,E,A,A,C
+36,Kukulkan Warrior,El Condor Pasa,2021-06-29,2025-09-21,3,15,0,0,15,0,A,B,F,A,A,B,E,A,A,C
+37,O Sole Suo!,T.M. Opera O,2021-03-02,2025-06-26,3,0,20,0,0,10,A,E,G,E,A,A,C,A,A,G
+38,"New Year, Same Radiance!",T.M. Opera O,2021-12-31,2026-01-29,3,14,8,0,0,8,A,E,G,E,A,A,C,A,A,G
+39,Maverick,Narita Brian,2021-05-17,2025-08-20,3,10,20,0,0,0,A,G,F,B,A,A,G,A,A,D
+40,Ravenous Wolf,Narita Brian,2022-12-20,,3,10,10,0,10,0,A,G,F,B,A,A,G,A,A,D
+41,Emperor's Path,Symboli Rudolf,2021-03-02,2025-06-26,3,0,20,0,10,0,A,G,E,C,A,A,B,A,A,C
+42,Archer by Moonlight,Symboli Rudolf,2021-10-28,2025-12-14,3,8,14,0,0,8,A,G,E,C,A,A,B,A,A,C
+43,Empress Road,Air Groove,2021-03-02,2025-06-26,2,10,0,20,0,0,A,G,C,B,A,E,D,A,A,G
+44,Quercus Civilis,Air Groove,2021-05-28,2025-08-28,3,10,0,10,10,0,A,G,C,B,A,E,D,A,A,G
+45,Full-Color Fangirling,Agnes Digital,2021-09-20,2025-11-19,3,8,8,7,0,7,A,A,F,A,A,G,G,A,A,B
+46,Fanatic♡Jiangshi,Agnes Digital,2022-09-29,2026-08-18,3,7,7,8,8,0,A,A,F,A,A,G,G,A,A,B
+47,Reeling in the Big One,Seiun Sky,2021-06-10,2025-09-07,3,0,10,0,0,20,A,G,G,C,A,A,A,B,D,E
+48,Soirée des Chatons,Seiun Sky,2022-03-29,2026-04-05,3,8,0,8,14,0,A,G,G,C,A,A,A,B,D,E
+49,渚のきまぐれオランジュ,Seiun Sky,2026-07-30,,3,0,0,5,10,15,A,G,G,C,A,A,A,B,D,E
+50,Fast as Lightning,Tamamo Cross,2021-12-22,2026-01-22,3,0,20,10,0,0,A,F,G,E,A,A,G,A,A,A
+51,Raging Thunder,Tamamo Cross,2022-10-28,2026-09-07,3,14,8,0,8,0,A,F,G,E,A,A,G,A,A,A
+52,Noble Seamair,Fine Motion,2021-12-14,2026-01-15,3,0,0,15,0,15,A,G,F,A,A,C,D,A,E,C
+53,Titania,Fine Motion,2022-05-30,2026-05-18,3,0,0,0,10,20,A,G,F,A,A,C,D,A,E,C
+54,麺華煌彩伝・極,Fine Motion,2026-07-10,,3,0,0,10,10,10,A,G,F,A,A,C,D,A,E,C
+55,pf. Winning Equation...,Biwa Hayahide,2021-03-18,2025-07-10,3,0,0,0,10,20,A,F,F,C,A,A,E,A,B,E
+56,Rouge Caroler,Biwa Hayahide,2021-11-29,2026-01-05,3,0,12,12,0,6,A,F,F,C,A,A,E,A,B,E
+57,Engineered Victory,Biwa Hayahide,2024-10-29,,3,0,10,10,10,0,A,F,F,C,A,A,E,A,B,E
+58,Scramble☆Zone,Mayano Top Gun,2021-03-02,2025-06-26,2,0,20,0,10,0,A,E,D,D,A,A,A,A,B,B
+59,Sunlight Bouquet,Mayano Top Gun,2021-05-28,2025-08-28,3,10,10,0,0,10,A,E,D,D,A,A,A,A,B,B
+60,ろっきん☆MewMeow,Mayano Top Gun,2024-09-30,,3,8,15,0,0,7,A,E,D,D,A,A,A,A,B,B
+61,Creeping Shadow,Manhattan Cafe,2021-10-20,2025-12-08,3,0,30,0,0,0,A,G,G,F,B,A,G,C,A,C
+62,柳緑小夜,Manhattan Cafe,2024-01-31,,3,0,20,10,0,0,A,G,G,F,B,A,G,C,A,A
+63,幽玄薔薇,Manhattan Cafe,2026-05-29,,3,0,5,10,5,10,A,G,G,F,B,A,G,C,A,C
+64,MB-19890425,Mihono Bourbon,2021-03-09,2025-07-02,3,0,20,10,0,0,A,G,C,B,A,B,A,E,G,G
+65,CODE: ICING,Mihono Bourbon,2022-01-28,2026-02-18,3,10,10,10,0,0,A,G,C,B,A,B,A,E,G,G
+66,Down the Line,Mejiro Ryan,2021-03-02,2025-06-26,1,0,0,20,0,10,A,G,E,C,A,B,F,A,A,F
+67,Marguerite Latte,Mejiro Ryan,2023-01-30,,3,20,0,0,0,10,A,G,E,C,A,B,F,A,A,F
+68,Buono ☆ Alla Moda,Hishi Akebono,2021-09-10,2025-11-11,3,0,0,20,10,0,A,F,A,B,F,G,B,A,C,G
+69,マジックナイトガーランド,Hishi Akebono,2025-09-29,,3,0,0,30,0,0,A,F,A,B,F,G,B,A,C,G
+70,Darl'n Snowflake,Yukino Bijin,2022-09-12,2026-08-05,3,10,0,0,20,0,A,B,D,A,A,E,C,A,F,G
+71,茶の子雪ん子,Yukino Bijin,2024-01-31,,3,8,0,8,14,0,A,A,D,A,A,E,C,A,F,G
+72,Rosy Dreams,Rice Shower,2021-03-02,2025-06-26,3,0,10,0,20,0,A,G,E,C,A,A,B,A,C,G
+73,Vampire Makeover!,Rice Shower,2021-09-29,2025-11-24,3,0,15,15,0,0,A,G,E,C,A,A,B,A,C,G
+74,Yummy Dreamy Fairy,Rice Shower,2024-07-09,,3,0,20,0,10,0,A,G,E,C,A,A,B,A,C,G
+75,Always Electrifying,Ines Fujin,2022-05-10,2026-04-30,3,15,0,0,15,0,A,G,G,A,A,C,A,C,G,G
+76,Melt Your Heart,Ines Fujin,2023-01-30,,3,14,0,0,8,8,A,G,G,A,A,C,A,C,G,G
+77,Hello Hello Island,Ines Fujin,2025-07-11,,3,12,0,10,8,0,A,G,G,A,A,C,A,C,G,G
+78,tach-nology,Agnes Tachyon,2021-03-02,2025-06-26,1,20,0,0,10,0,A,G,G,D,A,B,E,A,B,F
+79,Lunatic Lab,Agnes Tachyon,2023-07-31,,3,8,0,8,0,14,A,G,G,D,A,B,E,A,B,F
+80,Σ Experiment,Agnes Tachyon,2024-05-10,,3,14,0,8,0,8,A,G,G,D,A,B,E,A,B,F
+81,Starry Nocturne,Admire Vega,2022-02-16,2026-03-05,3,10,0,20,0,0,A,G,F,C,A,C,G,G,B,A
+82,Glacialis Vega,Admire Vega,2024-11-28,,3,10,0,20,0,0,A,G,F,C,A,C,G,G,B,A
+83,Edomurasaki,Inari One,2022-06-10,2026-05-28,3,0,10,20,0,0,A,A,F,B,A,A,G,B,B,A
+84,Golden Dream,Inari One,2022-10-28,2026-09-07,3,14,0,8,0,8,A,A,F,B,A,A,G,B,B,A
+85,Get to Winning!,Winning Ticket,2021-03-02,2025-06-26,1,0,10,20,0,0,A,G,G,F,A,B,G,B,A,G
+86,Dream Deliverer,Winning Ticket,2022-08-29,2026-07-27,3,8,0,14,8,0,A,G,G,F,A,B,G,B,A,G
+87,Glorious Coat,Winning Ticket,2024-04-09,,3,10,10,10,0,0,A,G,G,F,A,B,G,B,A,G
+88,unsigned,Air Shakur,2022-07-11,2026-06-18,3,0,0,0,0,30,A,G,G,E,A,A,G,C,A,A
+89,Belphegor's Prime,Air Shakur,2023-09-29,,3,0,14,8,0,8,A,G,G,E,A,A,G,C,A,A
+90,Meisterschaft,Eishin Flash,2021-08-20,2025-10-30,3,0,0,10,0,20,A,G,G,F,A,A,G,B,A,C
+91,Precise Chocolatier,Eishin Flash,2022-01-28,2026-02-18,3,0,8,8,0,14,A,G,G,F,A,A,G,B,A,C
+92,Reines Plätschern,Eishin Flash,2024-07-29,,3,0,10,0,10,10,A,G,G,F,A,A,G,B,A,C
+93,Fille Éclair,Curren Chan,2021-04-15,2025-07-27,3,10,0,20,0,0,A,F,A,D,G,G,B,A,E,G
+94,Ma Chérie of the New Moon,Curren Chan,2022-05-30,2026-05-18,3,10,0,10,0,10,A,F,A,D,G,G,B,A,E,G
+95,Princess of Pink,Kawakami Princess,2021-10-11,2025-12-01,3,0,0,10,20,0,A,G,D,B,A,F,G,C,A,D
+96,水干撫子,Kawakami Princess,2023-10-30,,3,0,8,8,14,0,A,G,D,B,A,F,G,C,A,D
+97,Authentic / 1928,Gold City,2021-07-20,2025-10-07,3,0,0,10,20,0,A,D,F,A,B,B,F,A,A,F
+98,Autumn Cosmos,Gold City,2021-10-28,2025-12-14,3,8,0,8,0,14,A,D,F,A,B,B,F,A,A,F
+99,Boho Flare,Gold City,2025-06-27,,3,0,10,0,15,5,A,D,F,B,A,A,F,A,A,F
+100,Blossom in Learning,Sakura Bakushin O,2021-03-02,2025-06-26,1,20,0,0,0,10,A,G,A,B,G,G,A,A,F,G
+101,Red Hot☆Leader,Sakura Bakushin O,2023-04-28,,3,14,0,8,0,8,A,G,A,B,G,G,A,A,F,G
+102,春雷の韋駄天,Sakura Bakushin O,2026-03-30,,3,10,0,15,0,5,A,G,A,B,G,G,A,A,F,G
+103,Rocket☆Star,Seeking the Pearl,2022-09-20,2026-08-12,3,10,0,0,0,20,A,F,A,A,E,G,C,A,A,B
+104,Be♪Witched,Seeking the Pearl,2024-09-30,,3,10,0,13,0,7,A,F,A,A,E,G,C,A,A,B
+105,Wicked Punk,Shinko Windy,2023-02-13,,3,10,0,10,10,0,F,A,C,A,B,G,G,A,B,F
+106,ガブガブ☆スキャンプ,Shinko Windy,2026-08-31,,3,8,0,8,14,0,F,A,C,A,B,G,G,A,B,F
+107,Platanus Witch,Sweep Tosho,2022-06-20,2026-06-04,3,10,0,20,0,0,A,G,E,A,A,D,G,G,A,A
+108,リアライズ・ルーン,Sweep Tosho,2024-05-30,,3,10,0,10,10,0,A,G,E,A,A,D,G,G,A,A
+109,Murmuring Stream,Super Creek,2021-03-02,2025-06-26,2,0,10,0,0,20,A,G,G,G,A,A,D,A,B,G
+110,Chiffon-Wrapped Mummy,Super Creek,2021-09-29,2025-11-24,3,14,8,0,8,0,A,G,G,G,A,A,D,A,B,G
+111,慈雨華影,Super Creek,2024-04-30,,3,10,13,0,0,7,A,G,G,G,A,A,D,A,B,G
+112,LOVE☆4EVER,Smart Falcon,2021-05-06,2025-08-11,3,20,0,10,0,0,E,A,B,A,A,E,A,D,G,G
+113,Twilight Triumph,Smart Falcon,2022-08-24,2026-07-22,3,20,0,0,10,0,E,A,B,A,A,E,A,D,G,G
+114,ルミナス☆トワラー,Smart Falcon,2025-04-30,,3,0,10,10,10,0,E,A,B,A,A,E,A,D,G,G
+115,Heroic Author,Zenno Rob Roy,2022-12-12,,3,0,10,0,0,20,A,G,G,E,A,A,G,A,A,E
+116,Inlaid Stories,Zenno Rob Roy,2024-08-30,,3,10,0,10,0,10,A,G,G,E,A,A,G,A,A,E
+117,Jokester ☆ Vibes,Tosen Jordan,2021-11-08,2025-12-18,3,10,0,10,10,0,A,G,G,F,A,B,C,A,B,G
+118,Aurore☆Vacances,Tosen Jordan,2023-06-29,,3,8,8,14,0,0,A,G,G,F,A,B,C,A,A,G
+119,Highkey☆Hallowed,Tosen Jordan,2025-10-10,,3,0,10,10,10,0,A,G,G,F,A,B,C,A,A,G
+120,Desperate Measures,Nakayama Festa,2022-11-09,,3,10,10,10,0,0,A,G,G,C,A,B,G,A,A,D
+121,祝祭遊戯,Nakayama Festa,2025-11-28,,3,10,0,10,10,0,A,G,G,C,A,B,G,A,A,D
+122,Nevertheless,Narita Taishin,2021-04-26,2025-08-03,3,10,0,0,20,0,A,G,F,D,A,A,G,F,B,A
+123,Difference Engineer,Narita Taishin,2022-08-29,2026-07-27,3,0,8,0,8,14,A,G,F,D,A,A,G,F,B,A
+124,迷光オーヴァライド,Narita Taishin,2024-11-08,,3,0,0,20,0,10,A,G,F,D,A,A,G,F,B,A
+125,Layered Petals,Nishino Flower,2022-04-11,2026-04-12,3,15,0,15,0,0,A,F,A,A,E,G,F,A,A,G
+126,Sweet Juneberry,Nishino Flower,2023-05-29,,3,10,0,0,0,20,A,F,A,A,E,G,F,A,A,G
+127,Bestest Prize ♪,Haru Urara,2021-03-02,2025-06-26,1,0,0,10,20,0,G,A,A,B,G,G,G,G,A,B
+128,New Year ♪ New Urara!,Haru Urara,2021-12-31,2026-01-29,3,0,0,20,10,0,G,A,A,A,G,G,G,G,A,B
+129,Iron Ambition,Bamboo Memory,2022-08-10,2026-07-07,3,10,0,10,10,0,A,D,A,A,C,G,G,E,A,C
+130,Ultra☆Marine,Bamboo Memory,2023-06-29,,3,14,0,8,8,0,A,D,A,A,C,G,G,E,A,C
+131,疾風ペガサス・零式,Biko Pegasus,2024-02-14,,2,10,0,10,10,0,A,E,A,B,G,G,G,E,A,B
+132,★Super∞Marvel∞Tastic☆,Marvelous Sunday,2023-06-19,,3,0,0,15,0,15,A,F,G,C,A,B,G,A,A,C
+133,トリック☆リボネッタ,Marvelous Sunday,2025-09-29,,3,0,16,7,7,0,A,F,G,C,A,B,G,A,A,C
+134,Rising☆Fortune,Matikanefukukitaru,2021-03-02,2025-06-26,1,0,20,10,0,0,A,F,F,C,A,A,G,B,A,F
+135,Lucky Tidings,Matikanefukukitaru,2021-08-30,2025-11-06,3,0,10,0,10,10,A,F,F,C,A,A,G,B,A,F
+136,Clear Bliss,Mr. C.B.,2023-02-24,,3,10,10,0,0,10,A,G,G,B,A,A,G,E,A,A
+137,絢爛花道歌舞く君,Mr. C.B.,2024-12-27,,3,20,0,10,0,0,A,G,G,B,A,A,G,E,A,A
+138,Turbulent Blue,Meisho Doto,2021-08-11,2025-10-21,3,0,20,0,10,0,A,E,G,F,A,A,F,A,B,E
+139,Dot-o'-Lantern,Meisho Doto,2022-09-29,2026-08-18,3,0,0,15,0,15,A,E,G,F,A,A,F,A,B,E
+140,Off the Line,Mejiro Dober,2021-11-19,2025-12-28,3,10,0,0,0,20,A,G,E,A,A,F,C,B,A,G
+141,Sapphire Sojourn,Mejiro Dober,2022-06-30,2026-06-11,3,20,0,0,0,10,A,G,E,A,A,F,C,B,A,G
+142,Poinsettia Ribbon,Nice Nature,2021-03-02,2025-06-26,1,0,0,20,0,10,A,G,G,C,A,A,F,B,A,D
+143,Run & Win,Nice Nature,2022-04-28,2026-04-26,3,0,10,10,0,10,A,G,G,C,A,A,F,B,A,D
+144,ネガイノカサネ,Nice Nature,2024-01-09,,3,14,0,8,0,8,A,G,G,C,A,A,F,B,A,D
+145,King of Emeralds,King Halo,2021-03-02,2025-06-26,1,0,0,20,10,0,A,G,A,B,B,C,G,B,A,D
+146,Cheerleader in Noble White,King Halo,2022-04-28,2026-04-26,3,10,0,10,10,0,A,G,A,B,B,C,G,B,A,D
+147,Evergreen Identity,King Halo,2024-05-30,,3,0,0,10,10,10,A,G,A,A,B,C,G,B,A,D
+148,Clippety-Tippety-Clop,Matikanetannhauser,2022-02-24,2026-03-12,2,0,20,0,10,0,A,G,G,D,A,A,F,A,A,E
+149,Blue Turbulence,Matikanetannhauser,2023-04-28,,3,10,0,20,0,0,A,G,G,D,A,A,F,A,A,E
+150,Mantle of Steel,Ikuno Dictus,2024-02-24,,2,0,0,0,20,10,A,G,D,A,A,D,D,A,A,D
+151,逍遥、整然たる路を,Ikuno Dictus,2025-12-26,,3,0,10,10,10,0,A,G,D,A,A,D,D,A,A,D
+152,Line Breakthrough,Mejiro Palmer,2022-05-20,2026-05-10,3,10,10,0,10,0,A,G,G,F,A,A,A,E,F,G
+153,赤心のトナカイさん,Mejiro Palmer,2023-11-30,,3,10,20,0,0,0,A,G,G,F,A,A,A,E,F,G
+154,Fun☆Fun☆Party Night,Daitaku Helios,2023-01-20,,3,15,0,15,0,0,A,G,B,A,B,E,A,A,G,G
+155,Joyful Jamboree!,Daitaku Helios,2024-03-29,,3,8,0,14,8,0,A,G,B,A,B,E,A,A,G,G
+156,Turbo Engine! Full Throttle!,Twin Turbo,2023-02-24,,1,30,0,0,0,0,A,F,G,A,A,E,A,G,G,G
+157,Natural Brilliance,Satono Diamond,2022-03-07,2026-03-22,3,0,15,0,0,15,A,G,G,C,A,A,G,B,A,D
+158,Jade's Prosperity,Satono Diamond,2022-12-29,,3,15,15,0,0,0,A,G,G,C,A,A,G,B,A,D
+159,シュヴァリエ・ブル,Satono Diamond,2023-09-11,,3,8,14,0,8,0,A,G,G,C,A,A,G,B,A,D
+160,Gilded Shrine to Glory,Kitasan Black,2022-02-24,2026-03-12,3,20,10,0,0,0,A,G,E,C,A,A,A,B,C,G
+161,Crane's Ambition,Kitasan Black,2022-12-29,,3,10,0,10,0,10,A,G,E,C,A,A,A,B,C,G
+162,結願のしまい華,Kitasan Black,2023-12-28,,3,10,0,0,20,0,A,G,E,C,A,A,A,B,C,G
+163,Strength in Full Bloom,Sakura Chiyono O,2022-01-20,2026-02-11,3,10,0,0,10,10,A,G,E,A,A,E,B,A,F,G
+164,Fleur Enneigée,Sakura Chiyono O,2023-03-29,,3,8,0,14,0,8,A,G,E,A,A,E,B,A,F,G
+165,Féroce,Sirius Symboli,2023-07-21,,3,0,0,10,0,20,A,G,G,B,A,C,E,A,C,E
+166,Louve stellaire,Sirius Symboli,2025-04-10,,3,0,0,10,20,0,A,G,G,B,A,C,E,A,A,E
+167,Crystalline,Mejiro Ardan,2022-02-08,2026-02-25,3,10,0,0,0,20,A,F,E,B,A,D,C,A,D,G
+168,Neige Émeraude,Mejiro Ardan,2023-03-29,,3,8,8,0,0,14,A,F,E,B,A,D,C,A,D,G
+169,"Blazed Head, Covered Fists",Yaeno Muteki,2022-04-19,2026-04-20,3,0,0,20,10,0,A,E,G,B,A,E,F,A,A,G
+170,黒将Zen,Yaeno Muteki,2024-04-30,,3,0,6,12,12,0,A,E,G,B,A,E,F,A,A,G
+171,志、高し、強し！,Tsurumaru Tsuyoshi,2025-02-14,,2,0,0,20,10,0,A,F,F,D,A,C,G,A,A,E
+172,Brunissage Line,Mejiro Bright,2022-03-18,2026-03-26,3,0,14,0,8,8,A,G,F,C,A,A,G,D,A,A
+173,清らに星澄むスノーロリィタ,Mejiro Bright,2023-11-30,,3,0,20,0,0,10,A,G,F,C,A,A,G,D,A,A
+174,海辺のエレガンスシフォン,Mejiro Bright,2026-07-30,,3,5,10,0,5,10,A,G,F,C,A,A,G,D,A,A
+175,Saisir le rêve,Sakura Laurel,2023-04-10,,3,0,20,10,0,0,A,E,G,C,A,A,G,B,A,B
+176,Nouvelle pousse,Sakura Laurel,2025-12-26,,3,0,10,0,20,0,A,E,G,C,A,A,G,B,A,B
+177,The Proud Road,Narita Top Road,2023-08-24,,3,20,10,0,0,0,A,G,G,C,A,A,F,A,B,D
+178,Celestial Road,Narita Top Road,2024-11-28,,3,0,10,20,0,0,A,G,G,C,A,A,F,A,B,D
+179,万福龍湯伝・頂,Narita Top Road,2026-06-29,,3,0,5,10,0,15,A,G,G,C,A,A,F,A,B,D
+180,Fluttertail Spirit,Yamanin Zephyr,2022-10-19,2026-09-01,3,10,0,0,10,10,A,D,B,A,A,G,E,A,C,G
+181,Sugary Wind,Yamanin Zephyr,2025-01-31,,3,0,0,15,15,0,A,D,B,A,A,G,E,A,C,G
+182,衣錦還郷の瑞星,Furioso,2025-01-20,,3,20,0,0,10,0,G,A,F,A,A,F,A,A,E,G
+183,ZOKU-ZOKU GIZMO,Transcend,2024-03-12,,3,10,0,10,0,10,F,A,G,A,A,G,A,B,F,G
+184,宵闇ネオカグラ,Transcend,2025-10-29,,3,0,0,15,0,15,F,A,G,A,A,G,A,B,F,G
+185,Red Devil Gear,Espoir City,2025-09-09,,3,0,0,10,20,0,E,A,A,A,B,G,A,A,F,G
+186,Looking Fly!,North Flight,2024-05-20,,3,20,0,0,0,10,A,G,C,A,B,G,D,A,D,C
+187,水縹の一閃,North Flight,2026-03-30,,3,15,0,0,0,15,A,G,C,A,B,G,D,A,D,A
+188,Onyx Soldier,Symboli Kris S,2023-03-20,,3,0,15,15,0,0,A,G,G,E,A,A,G,A,A,D
+189,Jetblack Automaton,Symboli Kris S,2023-09-29,,3,15,0,15,0,0,A,G,G,E,A,A,G,A,A,D
+190,Mantle of Keravnos,Tanino Gimlet,2023-05-19,,3,0,0,30,0,0,A,F,F,A,A,F,G,D,A,A
+191,With a Twist,Tanino Gimlet,2025-03-31,,3,10,0,10,10,0,A,F,F,A,A,F,G,D,A,A
+192,Opulent Gem,Daiichi Ruby,2023-03-10,,3,0,0,20,0,10,A,G,A,A,C,G,E,B,A,A
+193,Flowing Blue,Daiichi Ruby,2024-03-29,,3,6,0,12,0,12,A,G,A,A,C,G,E,B,A,A
+194,オニキス・ライン,Mejiro Ramonu,2023-10-19,,3,15,0,0,0,15,A,F,B,A,A,E,G,A,A,F
+195,Untouchable Eden,Mejiro Ramonu,2025-05-30,,3,0,0,15,5,10,A,F,B,A,A,E,G,A,A,F
+196,Flare,Aston Machan,2022-10-11,2026-08-25,3,20,0,0,10,0,A,G,A,B,G,G,A,A,G,G
+197,溶けない砂糖菓子,Aston Machan,2025-01-31,,3,10,0,10,10,0,A,G,A,B,G,G,A,A,G,G
+198,黒翠千里行,Satono Crown,2023-12-11,,3,0,0,15,15,0,A,G,G,B,A,E,G,B,A,D
+199,晴島花麗,Satono Crown,2025-07-31,,3,0,10,6,14,0,A,G,G,B,A,E,G,B,A,D
+200,Grand itinéraire,Cheval Grand,2023-12-20,,3,0,10,0,10,10,A,G,G,G,A,A,G,A,B,F
+201,夏凪ネイビードロップ,Cheval Grand,2025-07-31,,3,0,10,0,20,0,A,G,G,G,A,A,G,A,B,F
+202,Le beau sommet,Verxina,2025-05-12,,3,0,0,15,15,0,A,G,D,A,A,G,A,A,E,G
+203,Voyage étincelant,Vivlos,2024-01-19,,3,10,0,10,0,10,A,G,E,A,A,G,G,D,A,C
+204,Éclat d'été,Vivlos,2025-08-14,,3,10,0,0,10,10,A,G,E,A,A,G,G,D,A,C
+205,まんなか◎スポットライト,Dantsu Flame,2025-10-18,,3,0,10,0,20,0,A,F,E,B,A,D,G,A,B,D
+206,Prism,K.S.Miracle,2023-09-20,,3,15,0,0,15,0,A,G,A,B,G,G,E,A,B,C
+207,秋日色アンダンテ,K.S.Miracle,2025-08-29,,3,15,0,15,0,0,A,G,A,B,G,G,E,A,B,C
+208,王者の喊声,Jungle Pocket,2024-06-13,,3,10,10,10,0,0,A,G,G,C,A,B,G,D,A,B
+209,ヴァーミリオン・ヘッド,Jungle Pocket,2026-04-30,,3,0,7,10,13,0,A,G,G,C,A,B,G,D,A,B
+210,精粋,Believe,2025-09-19,,3,0,0,10,10,10,A,G,A,D,G,G,D,A,D,G
+211,紅色塗早駆具足,No Reason,2025-03-21,,3,0,20,0,0,10,A,G,G,B,A,C,G,D,A,F
+212,緋想の誓衣,Still in Love,2025-08-24,,3,0,10,10,10,0,A,G,C,A,A,G,G,A,A,F
+213,Eightfold☆Fortune,Copano Rickey,2022-08-19,2026-07-16,3,0,0,10,0,20,F,A,C,A,A,G,A,A,C,G
+214,光彩陸離☆招福衣,Copano Rickey,2025-04-30,,3,0,10,5,10,5,F,A,C,A,A,G,A,A,C,G
+215,Starry Lightship,Hokko Tarumae,2023-01-10,,3,10,10,0,0,10,G,A,F,A,A,E,B,A,G,G
+216,パステルマリン・ロコドル,Hokko Tarumae,2024-07-29,,3,15,10,0,0,5,G,A,F,A,A,E,B,A,G,G
+217,Butterfly Sting,Wonder Acute,2022-11-17,,3,0,0,0,15,15,G,A,D,A,A,E,C,A,C,E
+218,柔灯・湯の香の装い,Wonder Acute,2025-11-10,,3,0,10,10,10,0,G,A,D,A,A,E,C,A,B,E
+219,リトモ・デッラ・テッラ,Sounds of Earth,2024-04-19,,3,0,10,10,10,0,A,G,G,F,A,A,G,B,A,E
+220,ソナタ・アッラ・メンタ,Sounds of Earth,2026-01-30,,3,0,14,8,8,0,A,G,G,F,A,A,G,A,A,E
+221,Inspiring Genius,Royce and Royce,2026-02-14,,2,0,0,10,0,20,A,G,G,B,A,E,E,A,A,G
+222,Dragon Rising,Katsuragi Ace,2023-07-10,,3,10,0,10,10,0,A,G,E,B,A,B,A,A,E,G
+223,雅号・墨龍,Katsuragi Ace,2024-12-27,,3,5,0,10,15,0,A,G,E,B,A,B,A,A,E,G
+224,Universe-Naut,Neo Universe,2023-04-19,,3,0,0,0,0,30,A,G,F,B,A,B,F,A,A,C
+225,Like “ZEER”,Neo Universe,2024-08-30,,3,0,0,7,10,13,A,G,F,B,A,B,F,A,A,C
+226,Miracle Maker,Hishi Miracle,2023-05-10,,3,7,8,7,8,0,A,G,G,G,A,A,G,C,A,B
+227,ハッピー・リトル・ノーツ,Hishi Miracle,2025-08-29,,3,0,14,8,8,0,A,G,G,G,A,A,G,C,A,B
+228,GLITTER!,Tap Dance City,2023-11-20,,3,10,0,10,10,0,A,G,G,E,A,A,A,B,F,G
+229,Tap! Tap! Tap!,Tap Dance City,2025-03-31,,3,10,0,0,20,0,A,G,G,E,A,A,A,B,F,G
+230,Red in Black,Duramente,2024-02-24,,3,20,0,10,0,0,A,G,G,A,A,C,G,C,A,A
+231,Dream Successor,Rhein Kraft,2024-03-21,,3,0,0,15,15,0,A,G,A,A,B,G,E,A,C,G
+232,Eternal Fairytale,Rhein Kraft,,,3,5,0,15,0,10,A,G,B,A,A,G,E,A,C,G
+233,Future Weaver,Cesario,2024-09-10,,3,10,0,10,0,10,A,G,G,A,A,F,G,A,A,C
+234,Twinbell Queen,Cesario,2025-05-30,,3,0,0,10,20,0,A,G,G,A,A,F,G,A,A,C
+235,Inherited Hope,Air Messiah,2024-11-18,,3,0,0,15,0,15,A,G,C,B,A,G,G,B,A,E
+236,Daring Darling!,Daring Heart,2026-05-11,,3,0,0,0,20,10,A,D,B,A,E,G,D,A,F,G
+237,Assorted Cuteness♡,Fusaichi Pandora,2025-07-22,,3,0,10,0,10,10,A,E,G,B,A,G,C,A,B,F
+238,Snatchin' Hearts ♡,Fusaichi Pandora,2026-08-14,,3,0,0,14,8,8,A,E,G,B,A,G,C,A,B,F
+239,Heroína Inocente,Buena Vista,2025-11-19,,3,10,0,10,0,10,A,F,G,A,A,C,G,B,A,A
+240,総攬,Orfevre,2025-02-24,,3,10,10,10,0,0,A,D,G,C,A,A,G,F,A,A
+241,Regina dei fiori,Gentildonna,2024-08-24,,3,10,10,10,0,0,A,G,G,A,A,A,E,A,A,D
+242,La dama perfetta,Gentildonna,2026-05-29,,3,0,0,10,10,10,A,G,G,A,A,A,E,A,A,D
+243,ドラマティック・チュチュ,Win Variation,2024-12-10,,3,10,0,10,10,0,A,G,G,E,A,A,G,E,A,A
+244,Glacial Queen,Admire Groove,2026-04-20,,3,10,0,0,10,10,A,G,G,B,A,G,G,B,A,C
+245,夢路のよすが,Dream Journey,2024-06-26,,3,0,10,10,0,10,A,G,F,C,A,A,G,G,A,A
+246,雪白の夢路,Dream Journey,2025-11-28,,3,20,10,0,0,0,A,G,F,C,A,A,G,G,A,A
+247,真実一路,Calstone Light O,2024-07-19,,3,15,0,15,0,0,A,G,A,D,G,G,A,C,G,G
+248,Chevalier fidèle,Durandal,2024-09-20,,3,20,0,10,0,0,A,G,A,A,F,G,G,G,C,A
+249,POPPING!,Bubble Gum Fellow,2024-10-11,,3,20,0,0,10,0,A,G,G,A,A,G,E,A,B,G
+250,暁光,Bubble Gum Fellow,2026-01-08,,3,0,0,10,20,0,A,G,G,A,A,G,E,A,B,G
+251,義心の黒焔,Fenomeno,2025-04-21,,3,0,10,0,20,0,A,G,G,G,A,A,C,A,E,G
+252,剛毅なる紫焔,Fenomeno,2026-08-31,,3,10,10,0,10,0,A,G,G,G,A,A,C,A,E,G
+253,The Changer,Almond Eye,2026-02-24,,3,10,10,10,0,0,A,G,G,A,A,F,G,A,A,D
+254,万折不撓の纏,Lucky Lilac,2026-04-10,,3,0,0,10,10,10,A,G,G,A,A,C,F,A,A,G
+255,smile my way!,Gran Alegria,2025-03-11,,3,0,0,10,20,0,A,G,A,A,C,G,F,A,A,B
+256,9927 Wishes,Loves Only You,2025-05-21,,3,10,10,0,10,0,A,G,G,C,A,F,G,A,A,G
+257,Love-Linked Aster,Loves Only You,2026-03-11,,3,0,10,0,10,10,A,G,G,C,A,F,G,A,A,G
+258,陸離の編纂者,Chrono Genesis,2025-06-13,,3,10,10,0,10,0,A,G,G,B,A,A,G,A,C,E
+259,花宿しのクチュール,Curren Bouquetd'or,2026-06-15,,3,0,10,0,10,10,A,G,G,B,A,B,E,A,B,G
+260,Sunlit Outsider,Stay Gold,2025-12-21,,3,0,10,0,20,0,A,G,G,G,A,A,G,B,A,C
+261,Divine Raiment,Red Desire,2026-05-20,,3,10,0,0,10,10,A,B,G,A,A,F,G,B,A,F
+262,Miracle Author,Kiseki,2026-01-19,,3,10,0,0,10,10,A,G,G,C,A,A,A,B,A,E
+263,Fate's Chosen Star,Epiphaneia,2026-08-24,,3,0,10,10,0,10,A,G,G,E,A,A,D,A,B,G
+264,Lueur Angélique,Victoire Pisa,2026-03-19,,3,0,10,0,10,10,A,A,G,B,A,B,G,A,A,E
+265,Monochrome GM,Rulership,2026-07-21,,3,0,10,10,0,10,A,G,G,B,A,B,G,A,A,A
+266,絶佳の暁闇,Phalaenopsis,2026-09-11,,3,0,10,10,10,0,A,F,D,A,A,F,G,A,A,C
